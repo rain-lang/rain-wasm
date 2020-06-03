@@ -1,0 +1,9 @@
+[package]
+name = "rain-wasm"
+version = "0.0.0"
+authors = ["Jad Ghalayini <jad.ghalayini@hotmail.com>"]
+edition = "2018"
+
+[dependencies]
+rain-lang = { git = "https://gitlab.com/tekne/rain.git" }
+parity-wasm = "^0.41"
