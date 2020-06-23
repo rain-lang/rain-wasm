@@ -5,5 +5,5 @@ authors = ["Jad Ghalayini <jad.ghalayini@hotmail.com>"]
 edition = "2018"
 
 [dependencies]
-rain-lang = { git = "https://gitlab.com/tekne/rain.git" }
+rain-ir = { git = "https://gitlab.com/rain-lang/rain-ir.git" }
 parity-wasm = "^0.41"
